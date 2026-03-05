@@ -1,13 +1,30 @@
-<h1> Translate_app</h1>
+# Multi-Language Translator
 
-I've independently designed and coded a responsive Translate_app, and it's ready to explore!
+A translation application capable of translating text between 100+ languages using API data.
 
-🔸 Project Name: [Translate app]
+## 🚀 Tech Stack
+- React
+- Redux Toolkit
+- Axios
+- Tailwind CSS
 
-🔸 Technologies Used: React and Redux Toolkit, Tailwind CSS, Axios
+## 🔐 Features
+- Translate between 100+ languages
+- API-based translation system
+- Clean and responsive UI
+- Fast text processing
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. This app seamlessly translates text between 111 languages ​​using data from API's.
+## 🧠 Architecture & Focus
+- API communication using Axios
+- State management with Redux Toolkit
+- Modular React component structure
+- Efficient UI updates
 
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_translator.gif)
+
+## 💡 Future Improvements
+- Voice translation
+- Translation history
+- Language auto-detection
+- Offline translation support
